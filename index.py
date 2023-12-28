@@ -28,10 +28,10 @@
 # print(type(first+second))
 
 
-_no = 5
-print(_no)
+# _no = 5
+# print(_no)
 
-no = 5
-print(_no)
+# no = 5
+# print(_no)
 
 
